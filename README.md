@@ -1,12 +1,12 @@
 # Automated Engineering Systems
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`automated-engineering-systems` is a Phase 7 local-only scaffold for public-safe engineering operating-system discipline: memory patterns, source/provenance, workflow automation notes, operator dashboard concepts, private mesh concepts, GitHub mirrors, run logs, automation exports, source-of-truth discipline, and workflow review loops.
+`automated-engineering-systems` is a Phase 7 public scaffold for public-safe engineering operating-system discipline: memory patterns, source/provenance, workflow automation notes, operator dashboard concepts, private mesh concepts, GitHub mirrors, run logs, automation exports, source-of-truth discipline, and workflow review loops.
 
 ## What This Repo Is Not
 
@@ -17,12 +17,12 @@ This repo is not production automation, a live operations runbook, an endpoint c
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `system-map/synthetic-engineering-operating-system-map.md` completed as scaffolded synthetic artifact |
-| Published artifact | private/not-public |
-| Released artifact | not released |
+| Published artifact | scaffolded |
+| Released artifact | private/not-public or not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
 
@@ -56,7 +56,7 @@ Run logs are sanitized templates only. No private logs, production execution log
 
 ## Review Loops
 
-Review loops show human approval before public creation, publication, metadata, routing, or mirror changes.
+Review loops show human approval before routing, metadata, publication expansion, mirror changes, or release.
 
 ## Validation Method
 
@@ -66,9 +66,9 @@ Run `scripts/validate-public-boundary.sh`, the plan-listed boundary/status `rg` 
 
 This repo contains public-safe engineering operating-system architecture and workflow review patterns only. It must not contain production automation, endpoints, hostnames, ports, credentials, private vaults, private logs, private topology, customer operations, Foundation-private data, live automation exports, production workflows, internal workflow details, private repo paths, private telemetry, or internal company product names.
 
-## Links Back After Public Creation
+## Links Back After Public Scaffold Publication
 
-Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches after public creation approval.
+Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches.
 
 ## First Build Task
 

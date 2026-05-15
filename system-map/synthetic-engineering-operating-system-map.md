@@ -66,7 +66,7 @@ flowchart TD
   Nerves --> Chat["Chat: coordination and handoff"]
   Chat --> Logs["Sanitized run-log / automation-export review"]
   Logs --> Mirror["GitHub mirror boundary"]
-  Mirror --> Human["Human review before public creation or routing"]
+  Mirror --> Human["Human review before routing or release"]
 ```
 
 ## Validation Questions
