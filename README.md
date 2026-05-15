@@ -20,7 +20,7 @@ This repo is not production automation, a live operations runbook, an endpoint c
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | not created |
-| First artifact | `system-map/synthetic-engineering-operating-system-map.md` scaffolded |
+| First artifact | `system-map/synthetic-engineering-operating-system-map.md` completed as scaffolded synthetic artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -72,5 +72,4 @@ Profile routing and proof-stack routing are planned only. Any links from `Franza
 
 ## First Build Task
 
-Complete `system-map/synthetic-engineering-operating-system-map.md` with a synthetic operating-system context, memory/source/automation/dashboard/mirror/run-log categories, review loop, Mermaid diagram, validation questions, proof limits, and public/private/sealed checklist.
-
+First artifact completed as scaffolded: `system-map/synthetic-engineering-operating-system-map.md` covers synthetic operating-system context, Brain / Experiences / Nerves / Chat pattern, Obsidian / Forgejo / n8n / Mission Control boundary, private mesh and GitHub mirror boundary, run-log and automation-export review loop, source-of-truth discipline, Mermaid diagram, validation questions, proof limits, and public/private/sealed checklist.
